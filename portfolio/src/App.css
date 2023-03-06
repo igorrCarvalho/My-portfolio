@@ -1,0 +1,13 @@
+.headerMenu {
+  display: flex;
+}
+
+.headerMenu div {
+  margin: 0 5px 0 5px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 10px 0 10px;
+}
